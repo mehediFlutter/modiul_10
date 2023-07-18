@@ -1,16 +1,6 @@
 # modiul_10
 
-A new Flutter project.
+Potrate: ![potrate](https://github.com/mehediFlutter/modiul_10/assets/134786167/9592ab2b-eae2-46a4-a6d0-8663e9dbb46b)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Landscape: 
+![landscape](https://github.com/mehediFlutter/modiul_10/assets/134786167/f3352759-7ee9-4134-b13e-593ee42f31d3)
